@@ -4,6 +4,8 @@
 - Software Used: Qt (Core, GUI, Widgets, SQL, PrintSupport)
 - Language Used: C++, Android (In-progress)
 
+![screenshot](./screenshot.png)
+
 Menu Select uses the <b>Qt 5.11.1</b> framework.<br>
 I am in no way affiliated with Qt and am using their software under the <i>GNU LGPLv3</i> license.<br>
 
